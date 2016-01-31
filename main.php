@@ -21,7 +21,7 @@ print "<div class='feed' > <p style='text-align: center'>Привет, " . $curr
 </head>
 <body>
 <div class="feed">
-    <h1>Курс иностранного языка</h1>
+    <h1>Курс обучения утилитам</h1>
     <h2>Часть 1. Тестовые страницы.</h2>
     <ul>
         <li>

@@ -1,5 +1,5 @@
 body {
-    background-image: url("/img/qoorsachEnglishBackground.jpg");
+    background-image: url("/img/qoorsachUtilitybackground.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -79,7 +79,7 @@ body > * {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url('/img/qoorsachEnglishBackground-blurry.jpg');
+    background-image: url('/img/qoorsachUtilitybackground-blurry.png');
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
@@ -284,6 +284,12 @@ blockquote.style1 span {
 }
 
 .registration-block {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('/img/qoorsachUtilitybackground-blurry.png');
+    margin-left: auto;
+    margin-right: auto;
     clear: both;
     display: inline-block;
     text-align: center;
@@ -291,7 +297,6 @@ blockquote.style1 span {
     width: 40%;
     min-width: 300px;
     max-width: 450px;
-    opacity: 0.97;
     margin-top: 20px;
     padding: 35px;
     box-shadow: 0 0 4px rgba(0,0,0,0.5);

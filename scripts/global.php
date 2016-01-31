@@ -1,11 +1,11 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Roman
+ * User: MISHKA COPYPASTER
  * Date: 20.12.15
  * Time: 20:07
  */
-$databaseLink = mysqli_connect('db.radiushost.net', 'isosnitsky1_php', 'Fgsfds12#', 'isosnitsky1_isos', '3306');
+$databaseLink = mysqli_connect('db.radiushost.net', 'isosnitsky1_troy', 'waterfallofair7', 'isosnitsky1_troy', '3306');
 
 function getCurrentStudentData($dataLink, $id, $hash)
 {
