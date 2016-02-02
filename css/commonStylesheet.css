@@ -79,7 +79,7 @@ body > * {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url('/img/qoorsachUtilitybackground-blurry.png');
+    background-image: url('/img/qoorsachUtilitybackground-blurry.jpg');
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
@@ -287,7 +287,7 @@ blockquote.style1 span {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url('/img/qoorsachUtilitybackground-blurry.png');
+    background-image: url('/img/qoorsachUtilitybackground-blurry.jpg');
     margin-left: auto;
     margin-right: auto;
     clear: both;
