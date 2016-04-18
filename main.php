@@ -57,12 +57,17 @@ print "<div class='feed' > <p style='text-align: center'>Привет, " . $curr
     <h2>Часть 3. Тестирование опперативной памяти</h2>
     <ul>
         <li> <a href="pages/operative.php">
-                Общие понятие
+                Общие понятие.
             </a>
         </li>
         <li>
-            <a href="pages/furmark">
-                Описание Furmark
+            <a href="pages/furmark.php">
+                Описание Furmark.
+            </a>
+        </li>
+        <li>
+            <a href="pages/memtest.php">
+                Описание Memtest.
             </a>
         </li>
     </ul>
