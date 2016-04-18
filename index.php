@@ -2,7 +2,7 @@
 header("Location: main.php");
 /**
  * Created by PhpStorm.
- * User: Roman
+ * User: SOAPLORD
  * Date: 14.12.15
  * Time: 21:44
  */
