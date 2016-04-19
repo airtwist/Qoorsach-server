@@ -22,7 +22,7 @@ print "<div class='feed' > <p style='text-align: center'>Привет, " . $curr
 </head>
 <body>
 <div class="feed">
-    <h1>Курс обучения утилитам</h1>
+    <h1>Курс обучения тестирующим программам</h1>
     <h2>Часть 1. Тестирование жесткого диска.</h2>
     <ul>
         <li>
@@ -71,6 +71,14 @@ print "<div class='feed' > <p style='text-align: center'>Привет, " . $curr
             </a>
         </li>
     </ul>
+    <h2>Тесты для проверки знаний.</h2>
+    <ul>
+        <li> <a href="pages/UtilityTest.php">
+                Тест на проверку общих понятий
+            </a>
+        </li>
+        </ul>
+
 </div>
 <?php
 $testsAndResults = getCurrentStudentTestResults($databaseLink, $_COOKIE['id']);

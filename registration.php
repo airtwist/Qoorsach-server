@@ -76,7 +76,7 @@ if (isset($_POST['submit'])) {
 <body>
 <form method="post" class="registration-block">
     <p>
-        Введите свои данные >:)))0<br>
+        Введите свои данные <br>
         <a href="main.php">Уже зарегистрировались?</a>
     </p>
     <table>
@@ -94,8 +94,8 @@ if (isset($_POST['submit'])) {
         </tr>
     </table>
     <img class="captcha" onclick="this.src = 'scripts/captcha.php?' + Math.random();" src="scripts/captcha.php"/>
-    <p>Введи капчу:<br><input type="text" name="captcha_code"></p>
-    <input class="btn" name="submit" type="submit" value="Зарегаться">
+    <p>Введите капчу:<br><input type="text" name="captcha_code"></p>
+    <input class="btn" name="submit" type="submit" value="Зарегистрироваться">
 </form>
 </body>
 </html>
